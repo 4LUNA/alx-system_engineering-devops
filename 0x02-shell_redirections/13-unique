@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -u | grep -m1 .
+sort | uniq -u | grep .
