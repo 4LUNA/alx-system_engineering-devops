@@ -1,0 +1,2 @@
+#!/bin/bash
+python -c "w, s = int('$WATER', 6), int('$STIR', 5); print(w + s)"
