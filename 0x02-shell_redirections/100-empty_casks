@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -empty -exec basename {} \+ | rev | cut -d '/' -f 1 | rev
